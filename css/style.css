@@ -512,7 +512,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-repeat: no-repeat;
   position: relative;
   height: 350px;
-  width: 80%;
+  width: 50%;
   display: table;
   overflow: hidden;
   margin-bottom: 30px;
